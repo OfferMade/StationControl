@@ -12,4 +12,6 @@
 <img width="442" height="535" alt="image" src="https://github.com/user-attachments/assets/321310b9-639a-4db5-ada6-0058e7cd1884" />
 <img width="426" height="403" alt="image" src="https://github.com/user-attachments/assets/be45e678-a23b-4e96-959a-db4b2f858f8f" />
 
+<H2>DATABASE STRUCTURE (Doesn't contain all tables)</H2>
+<img width="1059" height="562" alt="image" src="https://github.com/user-attachments/assets/fa92b6d2-5bc1-44a0-ae9b-654138255c2f" />
 
