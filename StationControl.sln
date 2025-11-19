@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationControl", "StationControl\StationControl.csproj", "{99434388-4C13-437E-8544-6F57A73AA49B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99434388-4C13-437E-8544-6F57A73AA49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99434388-4C13-437E-8544-6F57A73AA49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99434388-4C13-437E-8544-6F57A73AA49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99434388-4C13-437E-8544-6F57A73AA49B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B1F5547-9570-4DFC-A6AE-11FB45278A23}
+	EndGlobalSection
+EndGlobal
